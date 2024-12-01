@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="css/rezervacije.css"?>
+<rezervacije>
+	<rezervacija>
+        <ime>Pera</ime>
+        <prezime>Perić</prezime>
+		<email>pera@nesto.com</email>
+        <odrasli>2</odrasli>
+        <deca>2</deca>
+		<od>11.12.2024</od>
+        <do>15.12.2024</do>
+        <tip>Četvorokrevetni apartman</tip>
+	</rezervacija>
+    <rezervacija>
+        <ime>Mika</ime>
+        <prezime>Mikić</prezime>
+		<email>mika@nesto.com</email>
+        <odrasli>2</odrasli>
+        <deca>2</deca>
+		<od>11.12.2024</od>
+        <do>15.12.2024</do>
+        <tip>Četvorokrevetni apartman</tip>
+	</rezervacija>
+    <rezervacija>
+        <ime>Pera</ime>
+        <prezime>Perić</prezime>
+		<email>pera@nesto.com</email>
+        <odrasli>2</odrasli>
+        <deca>2</deca>
+		<od>11.12.2024</od>
+        <do>15.12.2024</do>
+        <tip>Četvorokrevetni apartman</tip>
+	</rezervacija>
+    <rezervacija>
+        <ime>Pera</ime>
+        <prezime>Perić</prezime>
+		<email>pera@nesto.com</email>
+        <odrasli>2</odrasli>
+        <deca>2</deca>
+		<od>11.12.2024</od>
+        <do>15.12.2024</do>
+        <tip>Četvorokrevetni apartman</tip>
+	</rezervacija>
+    <rezervacija>
+        <ime>Pera</ime>
+        <prezime>Perić</prezime>
+		<email>pera@nesto.com</email>
+        <odrasli>2</odrasli>
+        <deca>2</deca>
+		<od>11.12.2024</od>
+        <do>15.12.2024</do>
+        <tip>Četvorokrevetni apartman</tip>
+	</rezervacija>
+    <rezervacija>
+        <ime>Pera</ime>
+        <prezime>Perić</prezime>
+		<email>pera@nesto.com</email>
+        <odrasli>2</odrasli>
+        <deca>2</deca>
+		<od>11.12.2024</od>
+        <do>15.12.2024</do>
+        <tip>Četvorokrevetni apartman</tip>
+	</rezervacija>
+</rezervacije>
